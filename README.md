@@ -1,4 +1,4 @@
-## Hi, my name is Alexandr and I'm a Data Scientists:
+## Hi, my name is Alexander and I'm a Data Scientist experienced in SQL, ML model building, NLP and CV problem solving.
 
 ### Once I became interested in Data Science and no one saw me more :man_scientist:
 
